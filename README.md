@@ -18,4 +18,4 @@ DAX measures used to calculate KPIs such as Average Loan Amount, Default Rate, A
 
 6.Screenshots/Demos
 show what the dashboard looks like  -
-![Alt text](https://github.com/sh10-web/LOAN-RISK-ANALYTICS-DASHBOARD/blob/main/Screenshot%202026-07-15%20001438.png)
+![Alt text](https://github.com/sh10-web/LOAN-RISK-ANALYTICS-DASHBOARD/blob/main/Screenshot%202026-07-15%20002109.png)
