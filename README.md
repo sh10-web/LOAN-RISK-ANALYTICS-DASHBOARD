@@ -15,3 +15,6 @@ Public Loan Default Dataset (CSV/Excel)
 5.Feature Highlights
 Interactive 3-page dashboard with intuitive navigation.
 DAX measures used to calculate KPIs such as Average Loan Amount, Default Rate, Average Income, and Loan Distribution.
+
+6.Screenshots/Demos
+https://github.com/sh10-web/LOAN-RISK-ANALYTICS-DASHBOARD/blob/main/Screenshot%202026-07-15%20001438.png
